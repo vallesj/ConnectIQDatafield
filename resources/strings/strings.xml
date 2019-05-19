@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">no resources 2</string>
+    <string id="FTPTitle">FTP</string>
+    <string id="FTPPrompt">Enter FTP number</string>
+    <string id="FTPError">Invalid power FTP number</string>
+</strings>
