@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="3" lineNum="73" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="3" lineNum="74" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="77" pc="268435479" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="78" pc="268435483" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="79" pc="268435520" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="80" pc="268435557" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="81" pc="268435594" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="82" pc="268435631" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="83" pc="268435668" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="84" pc="268435705" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="85" pc="268435742" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="86" pc="268435779" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="87" pc="268435816" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="90" pc="268435853" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="91" pc="268435884" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="92" pc="268435912" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="93" pc="268435943" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="94" pc="268435974" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="95" pc="268436001" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="96" pc="268436017" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="97" pc="268436034" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="99" pc="268436050" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="100" pc="268436067" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="103" pc="268436083" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="104" pc="268436170" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="105" pc="268436263" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="106" pc="268436356" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="108" pc="268436443" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="109" pc="268436460" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="111" pc="268436476" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="112" pc="268436515" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="113" pc="268436532" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="115" pc="268436548" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="116" pc="268436587" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="117" pc="268436604" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="119" pc="268436620" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="120" pc="268436636" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="121" pc="268436653" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="122" pc="268436669" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="123" pc="268436686" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="126" pc="268436702" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="127" pc="268436786" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="128" pc="268436870" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="129" pc="268436954" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="132" pc="268437038" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="133" pc="268437173" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="134" pc="268437308" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="135" pc="268437449" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="138" pc="268437590" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="139" pc="268437689" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="140" pc="268437788" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="4" lineNum="141" pc="268437893" symbol="compute"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="146" pc="268437999" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="147" pc="268438003" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="148" pc="268438015" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="151" pc="268438027" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="152" pc="268438044" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="153" pc="268438051" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="156" pc="268438084" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="157" pc="268438110" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="158" pc="268438135" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="159" pc="268438160" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="160" pc="268438176" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="163" pc="268438201" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="164" pc="268438226" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="165" pc="268438242" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="166" pc="268438258" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="167" pc="268438274" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="168" pc="268438311" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="170" pc="268438333" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="171" pc="268438400" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="172" pc="268438467" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="173" pc="268438534" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="174" pc="268438601" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="175" pc="268438668" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="176" pc="268438735" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="177" pc="268438802" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="178" pc="268438869" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="179" pc="268438936" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="180" pc="268439003" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="181" pc="268439070" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="182" pc="268439137" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="183" pc="268439204" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="186" pc="268439271" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="187" pc="268439340" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="188" pc="268439409" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="189" pc="268439478" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="190" pc="268439547" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="191" pc="268439616" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="192" pc="268439691" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="193" pc="268439766" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="194" pc="268439841" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="195" pc="268439916" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="198" pc="268439991" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="199" pc="268440060" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="200" pc="268440129" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="201" pc="268440198" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="202" pc="268440267" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="203" pc="268440336" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="204" pc="268440405" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="205" pc="268440474" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="206" pc="268440549" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="207" pc="268440624" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="208" pc="268440699" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="209" pc="268440774" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="210" pc="268440849" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="5" lineNum="211" pc="268440924" symbol="onLayout"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="221" pc="268441000" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="223" pc="268441004" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="224" pc="268441040" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="227" pc="268441072" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="228" pc="268441115" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="229" pc="268441151" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="230" pc="268441187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="232" pc="268441204" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="238" pc="268441240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="239" pc="268441276" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="240" pc="268441321" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="244" pc="268441357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="245" pc="268441400" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="246" pc="268441433" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="247" pc="268441469" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="250" pc="268441537" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="259" pc="268441573" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="260" pc="268441590" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="261" pc="268441651" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="262" pc="268441712" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="265" pc="268441729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="266" pc="268441767" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="269" pc="268441828" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="270" pc="268441864" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="271" pc="268441902" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="272" pc="268441963" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="273" pc="268442001" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="274" pc="268442062" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="275" pc="268442100" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="276" pc="268442161" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="277" pc="268442199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="278" pc="268442260" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="279" pc="268442298" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="280" pc="268442359" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="281" pc="268442397" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="284" pc="268442458" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="285" pc="268442496" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="287" pc="268442557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="288" pc="268442593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="289" pc="268442663" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="290" pc="268442733" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="291" pc="268442803" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="292" pc="268442873" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="293" pc="268442943" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="294" pc="268443013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="295" pc="268443083" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="297" pc="268443153" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="298" pc="268443191" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="299" pc="268443252" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="300" pc="268443290" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="301" pc="268443351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="302" pc="268443389" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="303" pc="268443450" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="304" pc="268443488" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="305" pc="268443549" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="306" pc="268443587" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="308" pc="268443648" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="309" pc="268443684" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="310" pc="268443754" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="311" pc="268443824" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="312" pc="268443894" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="319" pc="268443964" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="320" pc="268443981" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="323" pc="268444020" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="324" pc="268444037" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="325" pc="268444073" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="326" pc="268444117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="327" pc="268444134" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="328" pc="268444170" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="331" pc="268444214" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="332" pc="268444231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="333" pc="268444267" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="334" pc="268444311" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="335" pc="268444328" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="336" pc="268444364" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="342" pc="268444408" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="343" pc="268444461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="344" pc="268444497" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="348" pc="268444585" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="349" pc="268444602" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="350" pc="268444638" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="351" pc="268444671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="352" pc="268444688" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="353" pc="268444724" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="355" pc="268444768" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="357" pc="268444804" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="358" pc="268444908" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="359" pc="268445012" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="360" pc="268445116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="361" pc="268445220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="362" pc="268445324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="363" pc="268445428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="367" pc="268445532" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="368" pc="268445549" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="369" pc="268445585" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="371" pc="268445665" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="372" pc="268445682" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="373" pc="268445718" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="378" pc="268445798" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="379" pc="268445834" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="380" pc="268445851" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="381" pc="268445906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="382" pc="268445942" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="383" pc="268445959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="384" pc="268446014" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="385" pc="268446031" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="386" pc="268446067" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="387" pc="268446121" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="388" pc="268446184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="389" pc="268446238" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="393" pc="268446301" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="394" pc="268446334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="395" pc="268446351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="396" pc="268446387" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="398" pc="268446431" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="400" pc="268446448" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="401" pc="268446530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="402" pc="268446566" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="405" pc="268446632" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="406" pc="268446649" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="407" pc="268446668" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="408" pc="268446679" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="410" pc="268446706" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="413" pc="268446733" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="415" pc="268446749" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="416" pc="268446785" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="417" pc="268446848" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="420" pc="268446955" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="421" pc="268446988" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="422" pc="268446991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="423" pc="268447013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="425" pc="268447035" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="426" pc="268447046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="427" pc="268447056" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="429" pc="268447069" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="430" pc="268447076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="432" pc="268447126" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="435" pc="268447199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="437" pc="268447215" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="438" pc="268447251" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="440" pc="268447314" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="441" pc="268447350" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="444" pc="268447429" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="445" pc="268447465" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="449" pc="268447544" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="450" pc="268447580" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="451" pc="268447660" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="453" pc="268447757" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="454" pc="268447793" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="460" pc="268447859" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="461" pc="268447895" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="462" pc="268447959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="463" pc="268448023" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="464" pc="268448104" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="466" pc="268448171" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="467" pc="268448207" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="468" pc="268448271" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="469" pc="268448335" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="6" lineNum="470" pc="268448402" symbol="onUpdate"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="7" lineNum="473" pc="268448470" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="7" lineNum="474" pc="268448474" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="7" lineNum="475" pc="268448505" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="7" lineNum="476" pc="268448531" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="7" lineNum="478" pc="268448547" symbol="setDeviceSettingsDependentVariables"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="8" lineNum="482" pc="268448561" symbol="setPowerZones"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="8" lineNum="484" pc="268448565" symbol="setPowerZones"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="8" lineNum="486" pc="268448601" symbol="setPowerZones"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="8" lineNum="487" pc="268448629" symbol="setPowerZones"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="8" lineNum="488" pc="268448657" symbol="setPowerZones"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="8" lineNum="489" pc="268448685" symbol="setPowerZones"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="8" lineNum="490" pc="268448713" symbol="setPowerZones"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="8" lineNum="491" pc="268448741" symbol="setPowerZones"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="8" lineNum="492" pc="268448769" symbol="setPowerZones"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="495" pc="268448798" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="496" pc="268448802" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="498" pc="268448802" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="499" pc="268448838" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="500" pc="268448857" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="501" pc="268448877" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="502" pc="268448896" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="503" pc="268448916" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="504" pc="268448935" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="505" pc="268448955" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="506" pc="268448974" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="507" pc="268448994" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="509" pc="268449013" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="9" lineNum="511" pc="268449029" symbol="getHRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="513" pc="268449033" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="514" pc="268449037" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="516" pc="268449037" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="517" pc="268449067" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="518" pc="268449086" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="519" pc="268449106" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="520" pc="268449125" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="521" pc="268449145" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="522" pc="268449164" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="523" pc="268449184" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="524" pc="268449203" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="525" pc="268449223" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="526" pc="268449242" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="527" pc="268449262" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="528" pc="268449281" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="529" pc="268449301" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="531" pc="268449320" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="10" lineNum="533" pc="268449336" symbol="getPWRColor"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="11" lineNum="538" pc="268449340" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="11" lineNum="539" pc="268449344" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="11" lineNum="540" pc="268449357" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="11" lineNum="541" pc="268449371" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesView.mc" id="11" lineNum="543" pc="268449383" symbol="toNumberCeil"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesApp.mc" id="13" lineNum="5" pc="268449387" symbol="initialize"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesApp.mc" id="13" lineNum="6" pc="268449391" symbol="initialize"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesApp.mc" id="14" lineNum="10" pc="268449410" symbol="onStart"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesApp.mc" id="15" lineNum="14" pc="268449415" symbol="onStop"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesApp.mc" id="16" lineNum="18" pc="268449420" symbol="getInitialView"/>
+<entry filename="C:\\Users\\JVC\\eclipse-workspace\\MTBHybrid datafield edges\\source\\noresourcesApp.mc" id="16" lineNum="19" pc="268449424" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="48" symbol="SpeedStartY"/>
+<entry field="true" id="47" symbol="SpeedStartX"/>
+<entry field="true" id="33" symbol="tempe"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="65" symbol="RoundSpeed"/>
+<entry field="true" id="61" symbol="hrstarty"/>
+<entry field="true" id="57" symbol="hrstartx"/>
+<entry field="true" id="63" symbol="PWRendy"/>
+<entry field="true" id="60" symbol="PWRendx"/>
+<entry field="true" id="27" symbol="avgPWR"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="24" symbol="velocidadms"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="76" symbol="intspdcircle"/>
+<entry field="true" id="77" symbol="extrpmcircle"/>
+<entry field="true" id="101" symbol="xz5"/>
+<entry field="true" id="99" symbol="xz4"/>
+<entry field="true" id="97" symbol="xz3"/>
+<entry field="true" id="95" symbol="xz2"/>
+<entry field="true" id="93" symbol="xz1"/>
+<entry field="true" id="44" symbol="FTP"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="50" symbol="cadStartY"/>
+<entry field="true" id="49" symbol="cadStartX"/>
+<entry field="true" id="73" symbol="cadY"/>
+<entry field="true" id="72" symbol="cadX"/>
+<entry field="true" id="31" symbol="potencia"/>
+<entry field="true" id="21" symbol="cadenciaStr"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="70" symbol="CY"/>
+<entry field="true" id="71" symbol="CX"/>
+<entry field="true" id="18" symbol="avgSpeedStr"/>
+<entry field="true" id="32" symbol="inclina"/>
+<entry field="true" id="20" symbol="maxSpeedStr"/>
+<entry field="true" id="28" symbol="maxPWR"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="43" symbol="SPDcoor"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry field="true" id="8388935" method="true" symbol="duration"/>
+<entry field="true" id="117" symbol="altura"/>
+<entry id="8388647" module="true" symbol="UserProfile"/>
+<entry id="119" method="true" symbol="setPowerZones"/>
+<entry field="true" id="14" symbol="FTPTitle"/>
+<entry id="9" object="true" symbol="noresourcesView"/>
+<entry field="true" id="66" symbol="RoundMSpeed"/>
+<entry field="true" id="46" symbol="SpeedEndY"/>
+<entry field="true" id="45" symbol="SpeedEndX"/>
+<entry field="true" id="41" symbol="HRColor"/>
+<entry field="true" id="52" symbol="cadEndY"/>
+<entry field="true" id="51" symbol="cadEndX"/>
+<entry field="true" id="67" symbol="RoundASpeed"/>
+<entry field="true" id="69" symbol="speedkmh"/>
+<entry field="true" id="29" symbol="velocidad"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="75" symbol="extspdcircle"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="122" method="true" symbol="toNumberCeil"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="68" symbol="RoundCad"/>
+<entry id="10" object="true" symbol="noresourcesApp"/>
+<entry field="true" id="15" symbol="FTPError"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="22" symbol="distStr"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8388732" symbol="elapsedTime"/>
+<entry field="true" id="103" symbol="xzp6"/>
+<entry field="true" id="102" symbol="xzp5"/>
+<entry field="true" id="100" symbol="xzp4"/>
+<entry field="true" id="98" symbol="xzp3"/>
+<entry field="true" id="96" symbol="xzp2"/>
+<entry field="true" id="94" symbol="xzp1"/>
+<entry field="true" id="114" symbol="xzp0"/>
+<entry field="true" id="92" symbol="y40"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="91" symbol="y35"/>
+<entry field="true" id="90" symbol="y30"/>
+<entry field="true" id="89" symbol="y25"/>
+<entry field="true" id="88" symbol="y20"/>
+<entry field="true" id="87" symbol="y15"/>
+<entry field="true" id="39" symbol="mHRZones"/>
+<entry field="true" id="86" symbol="y10"/>
+<entry field="true" id="62" symbol="PWRstarty"/>
+<entry field="true" id="58" symbol="PWRstartx"/>
+<entry id="120" method="true" symbol="getHRColor"/>
+<entry field="true" id="74" symbol="cadrpm"/>
+<entry field="true" id="25" symbol="velocidadkmh"/>
+<entry field="true" id="30" symbol="distancia"/>
+<entry field="true" id="37" symbol="ZERO_DISTANCE"/>
+<entry field="true" id="36" symbol="ZERO_TIME"/>
+<entry field="true" id="19" symbol="hrStr"/>
+<entry field="true" id="23" symbol="time"/>
+<entry field="true" id="54" symbol="SpeedEndYS"/>
+<entry field="true" id="8388911" symbol="distance"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="53" symbol="SpeedEndXS"/>
+<entry field="true" id="8389402" symbol="distanceUnits"/>
+<entry field="true" id="17" symbol="FTPPrompt"/>
+<entry id="121" method="true" symbol="getPWRColor"/>
+<entry field="true" id="26" symbol="avgSpeed"/>
+<entry field="true" id="8388740" symbol="maxSpeed"/>
+<entry field="true" id="40" symbol="PWRZones"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="56" symbol="MspdStarty"/>
+<entry field="true" id="55" symbol="MspdStartX"/>
+<entry id="118" method="true" symbol="setDeviceSettingsDependentVariables"/>
+<entry field="true" id="116" symbol="yzp6"/>
+<entry field="true" id="113" symbol="yzp5"/>
+<entry field="true" id="111" symbol="yzp4"/>
+<entry field="true" id="109" symbol="yzp3"/>
+<entry field="true" id="107" symbol="yzp2"/>
+<entry field="true" id="105" symbol="yzp1"/>
+<entry field="true" id="115" symbol="yzp0"/>
+<entry field="true" id="112" symbol="yz5"/>
+<entry field="true" id="110" symbol="yz4"/>
+<entry field="true" id="108" symbol="yz3"/>
+<entry field="true" id="106" symbol="yz2"/>
+<entry field="true" id="104" symbol="yz1"/>
+<entry field="true" id="78" symbol="intrpmcircle"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="34" symbol="cadencias"/>
+<entry field="true" id="85" symbol="x40"/>
+<entry field="true" id="35" symbol="hr"/>
+<entry field="true" id="84" symbol="x35"/>
+<entry field="true" id="83" symbol="x30"/>
+<entry field="true" id="82" symbol="x25"/>
+<entry field="true" id="81" symbol="x20"/>
+<entry field="true" id="80" symbol="x15"/>
+<entry field="true" id="79" symbol="x10"/>
+<entry field="true" id="64" symbol="hrendy"/>
+<entry field="true" id="59" symbol="hrendx"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="38" symbol="kmOrMileInMeters"/>
+<entry field="true" id="42" symbol="PWRColor"/>
+</symbolTable>
+<localVars>
+<entry endPc="268437999" name="info" stackId="1" startPc="268435479"/>
+<entry endPc="268440999" name="profile" stackId="2" startPc="268438003"/>
+<entry endPc="268441000" name="dc" stackId="1" startPc="268437999"/>
+<entry endPc="268446730" name="distancia" stackId="3" startPc="268446649"/>
+<entry endPc="268447196" name="hours" stackId="4" startPc="268446988"/>
+<entry endPc="268447196" name="minutes" stackId="5" startPc="268446988"/>
+<entry endPc="268447196" name="seconds" stackId="6" startPc="268446988"/>
+<entry endPc="268448469" name="clockTime" stackId="2" startPc="268441004"/>
+<entry endPc="268448470" name="dc" stackId="1" startPc="268441000"/>
+<entry endPc="268449032" name="colorHR" stackId="2" startPc="268448802"/>
+<entry endPc="268449033" name="hrt" stackId="1" startPc="268448798"/>
+<entry endPc="268449339" name="colorPWR" stackId="2" startPc="268449037"/>
+<entry endPc="268449340" name="PWR" stackId="1" startPc="268449033"/>
+<entry endPc="268449386" name="floor" stackId="2" startPc="268449344"/>
+<entry endPc="268449387" name="float" stackId="1" startPc="268449340"/>
+<entry endPc="268449415" name="state" stackId="1" startPc="268449410"/>
+<entry endPc="268449420" name="state" stackId="1" startPc="268449415"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="noresourcesView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="noresourcesView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="noresourcesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="noresourcesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setDeviceSettingsDependentVariables" parent="noresourcesView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setPowerZones" parent="noresourcesView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHRColor" parent="noresourcesView">
+<param id="hrt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPWRColor" parent="noresourcesView">
+<param id="PWR"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="toNumberCeil" parent="noresourcesView">
+<param id="float"/>
+<documentation><![CDATA[<div class="description"> convert to integer - round ceiling<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="noresourcesApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="noresourcesApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="noresourcesApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="noresourcesApp">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="346" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="377" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="408" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="471" parentId="globals" symbolId="noresourcesApp" type="class"/>
+<dataEntry offset="542" parentId="globals" symbolId="noresourcesView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
